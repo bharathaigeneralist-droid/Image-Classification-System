@@ -1,7 +1,7 @@
 # Image-Classification-System
 Built an image classification system using machine learning techniques, including preprocessing, feature extraction, and model evaluation, capable of predicting unseen images with high accuracy.
 
-## 🔹 1. Key Features
+##  1. Key Features
 - End-to-end image processing pipeline (input → preprocessing → classification → output)
 - Image preprocessing (resizing, normalization, noise handling)
 - Feature extraction from images
@@ -39,7 +39,7 @@ Security (object detection 🔍)
 - Potential to scale into deep learning (CNN-based systems)
 - Structured like an industry-level ML workflow
 
-- ## 4. Technical Knowledge Demonstrated
+## 4. Technical Knowledge Demonstrated
 
 **📷 Image Processing**
 - Image loading and preprocessing
@@ -69,5 +69,4 @@ Security (object detection 🔍)
 - Converting models into usable systems
 
 - ## Project
-
 - <img width="1213" height="668" alt="Screenshot 2026-05-04 182714" src="https://github.com/user-attachments/assets/409a228a-a3dd-45c9-a903-e702677d32b9" />
