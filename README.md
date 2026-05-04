@@ -11,7 +11,7 @@ Built an image classification system using machine learning techniques, includin
 - Clean and modular code structure for scalability
 - Ability to extend for real-world applications (agriculture, medical imaging, etc.)
 
-  ## 2. Benefits 
+## 2. Benefits 
 - ✔ Demonstrates practical computer vision skills (high-demand field)
 - ✔ Shows ability to work with unstructured data (images), not just CSV files
 - ✔ Reflects real-world problem-solving ability
@@ -68,5 +68,5 @@ Security (object detection 🔍)
 - Handling input/output pipelines
 - Converting models into usable systems
 
-- ## Project
+## Project
 - <img width="1213" height="668" alt="Screenshot 2026-05-04 182714" src="https://github.com/user-attachments/assets/409a228a-a3dd-45c9-a903-e702677d32b9" />
